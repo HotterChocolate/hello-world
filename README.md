@@ -1,2 +1,3 @@
 # hello-world
-Just the standard hello-world tutorial.
+Hello everyone this is the new readme file.
+I hope you like it so far ;)
